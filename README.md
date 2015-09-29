@@ -2,8 +2,8 @@
 
 Simples estrutura para projeto c++
 
-  - make – gera executável (ainda não há suporte para subpastas em src e include)
-  - make doc – gera documentação
+  - make – cria executável (ainda não há suporte para subpastas em src e include)
+  - make doc – cria documentação
   - make clean – limpa projeto
 
 ### Estrutura
