@@ -5,7 +5,7 @@ build/*
 lib/*
 
 # Ignore doc dir
-doc/*
+doc/html/*
 
 # Ignore any executables
 bin/*
