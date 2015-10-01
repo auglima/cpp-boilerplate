@@ -5,6 +5,7 @@
 ### https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html
 ### http://www.gnu.org/software/make/manual/html_node/Wildcard-Function.html
 ### https://www.gnu.org/software/make/manual/html_node/Foreach-Function.html
+### https://pt.wikibooks.org/wiki/Programar_em_C/Makefiles
 
 
 ### Programas
